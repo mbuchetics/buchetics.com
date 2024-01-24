@@ -695,7 +695,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	margin-top:2px;
 }
 .zitat-style{
-	font-family:"Gloria Hallelujah";
+	font-family:"GloriaHallelujah";
 	font-weight:normal;
 	font-size:20px;
 	text-align:center;
@@ -916,6 +916,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	}
 	.zitat-style{
 		text-align:center;
+		font-family:"GloriaHallelujah";
 	}
 	
 }
@@ -1034,6 +1035,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.zitat-style{
 		text-align:center;
 		font-family:"GloriaHallelujah";
+	}
+	.h6-style{
+		width:100%;
 	}
 	
 }
